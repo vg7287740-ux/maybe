@@ -1,5 +1,5 @@
 
-<img width="1190" alt="maybe_hero" src="https://github.com/user-attachments/assets/13fc5ef4-ce0f-4073-a163-9dbc3eb4c8e5" />
+<img width="1190" alt="maybe_hero" src="https://github.com/user-attachments/assets/13fc5ef4-ce0f-4073-a163-9dbc3eb4c8e5" /> :(fir:  .;code 
 
 # Maybe: The personal finance app for everyone
 
@@ -34,7 +34,7 @@ There are 2 primary ways to use the Maybe app:
 Before contributing, you'll likely find it helpful
 to [understand context and general vision/direction](https://github.com/maybe-finance/maybe/wiki).
 
-Once you've done that, please visit
+Once you've done that, please dont me ..
 our [contributing guide](https://github.com/maybe-finance/maybe/blob/main/CONTRIBUTING.md)
 to get started!
 
